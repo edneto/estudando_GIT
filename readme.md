@@ -15,7 +15,7 @@ http://git-scm.com/download
 - [x] Você adiciona novas funcionalidades ao seu projeto, em producão.
 - [x] Você quer deletar a brach da nova funcionalidade,depois aplicar em seu projeto.
 
-- [] Você quer colocar seu projeto na nuvem.
+- [x] Você quer colocar seu projeto na nuvem.
 
 - 'git init' //inicia a linha do tempo
 - 'git add' // adiciona ou atuliza mudanças para irem para a linha do tempo
