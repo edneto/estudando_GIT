@@ -17,6 +17,12 @@ http://git-scm.com/download
 
 - [x] Você quer colocar seu projeto na nuvem.
 
+- [x] Você vai pegar um projeto já iniciado, para trabalhar com a equipe.
+- [x] Você precisa resolver um conflito.
+- [x] Antes de enviar a resolução, precisamos atualizar o projeto local.
+
+- [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
+
 * 'git init' //inicia a linha do tempo
 * 'git add' // adiciona ou atuliza mudanças para irem para a linha do tempo
 * 'git commit' // adiciona um ponto na linha do tempo
@@ -27,3 +33,4 @@ http://git-scm.com/download
 * 'git checkout' //manipula as linhas do tempo
 * 'git merge' //unir linhas do tempo
 * 'git push' //enviar alterações para repositório remoto
+* 'git clone' //
